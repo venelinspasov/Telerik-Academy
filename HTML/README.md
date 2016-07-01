@@ -1,6 +1,6 @@
 # <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" align="left" height="52" width="52" >HTML Homework 
 
-### [01. HTML Fundamentals](HTML/01.Fundamentals)
+### [01. HTML Fundamentals](01.Fundamentals)
 
 HyperText Markup Language, tags, attributes
 
