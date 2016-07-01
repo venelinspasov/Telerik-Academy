@@ -1,4 +1,4 @@
-# <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" align="left" height="48" width="48" > HTML Homework 
+# <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" align="left" height="64" width="64" >HTML Homework 
 
 ### [01. HTML Fundamentals](/Topics/02. HTML-Fundamentals)
 
