@@ -12,6 +12,6 @@ Borders, backgrounds, text-related properties
 
 Width, height, margins, paddings, positioning
 
-### [04. Preprocessors](04. Preprocessors)
+### [04. Preprocessors](04. CSS-Preprocessors)
 
 CSS Preprocessors
