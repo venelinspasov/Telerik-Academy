@@ -1,0 +1,19 @@
+
+.result
+{
+	width:202px;
+	height:40px;
+	font-size: 25px;
+}
+#zero
+{
+	width: 102px;
+	height: 50px;
+}
+
+input[type="button"]
+{
+	width: 50px;
+	height: 50px;
+	font-size: 25px;
+}
